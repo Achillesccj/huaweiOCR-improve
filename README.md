@@ -10,3 +10,6 @@ Improve the performance of huawei OCR
 1、通过字符块高度对比，筛掉乱码；
 2、通过重新排序调整成正确的顺序
 3、通过os函数，实现连续读取同一文件夹下所有jpg文件的内容，并将结果存储
+
+备注：
+代码使用的前提是已经下载了OCR的python sdk包，并具备华为云账号
