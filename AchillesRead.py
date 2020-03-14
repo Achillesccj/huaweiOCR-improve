@@ -24,8 +24,8 @@ def readnote_request():
     AK SK demo code
     """
     #设置华为账号相关信息，使用AKSK的方式进行调用
-    AK = "AZEU6SJSZ9BMGV7XMEXD"  # AK from authentication.
-    SK = "C107IKj0O3m35QI1JthUEJXA261IP6LLxq2eMexE"  # SK from authentication.
+    AK = "**"  # AK from authentication.
+    SK = "**"  # SK from authentication.
     region = "cn-north-4"  # http region information.
     
     #选择general-text的方式，说明我们选择的是通用的文本识别
